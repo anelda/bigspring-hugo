@@ -6,7 +6,7 @@ contentDir = "content/english"
 weight = 1
 [en.params]
 ########### footer content ##########
-footer_menu_left = "Company"
+footer_menu_left = "The Foundation"
 footer_menu_middle = "Products"
 footer_menu_right = "Support"
 footer_content = "Your partner in understanding and addressing teaching and learning needs for a stronger future."

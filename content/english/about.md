@@ -60,21 +60,21 @@ our_mission:
 #     content: "Make hires 40% <br> faster"
 
 
-# # features_box
-# features_box:
-#   enable: true
-#   features_box_item:
-#   - icon: "fas fa-file-signature"
-#     title: "We care about <br> our customers"
-#     content: "Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent."
+# features_box
+features_box:
+  enable: true
+  features_box_item:
+  - icon: "fas fa-globe"
+    title: "Extensive experience across geographical regions"
+    content: "Our team have worked in various geographical contexts including Africa, Europe, New Zealand, and more. <br><br><br>"
 
-#   - icon: "fas fa-hands-helping"
-#     title: "Your design partner now <br> and in the future"
-#     content: "Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent."
+  - icon: "fas fa-magnifying-glass-chart"
+    title: "Diverse expertise across multiple disciplines"
+    content: "Our experience spans public health, bioinformatics, genomics, digital humanities and computational social sciences, research software, digital research infrastructure, open science."
     
-#   - icon: "fas fa-headset"
-#     title: "Around the clock <br> support from day one"
-#     content: "Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent."
+  - icon: "fas fa-people-group"
+    title: "Wide range of collaborative partnerships"
+    content: "We are embedded in numerous communities of practice and collaborative partnerships across disciplines and around the globe. <br><br><br>"
 
 
 # # office_culture

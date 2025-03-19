@@ -12,8 +12,8 @@ section: "case-studies"
 call_to_action:
   enable : true
   title : "Let's work together."
-  image : "images/vector.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  image : "images/action-case-studies.svg"
+  content : "Get in touch to discuss ongoing and new capacity development projects and explore how we can work together to improve your learning outcomes."
   button:
     enable : true
     label : "Contact Us"
