@@ -34,30 +34,27 @@ our_mission:
   content: "We want to ensure time, money, and other resources earmarked for human capacity development initiatives, are spent on the right things to ensure learning and teaching have the impact our partners seek. We do this through __scoping research__ to understand the context, __localisation__ of learning resources and teaching approaches and supporting __communities of practice__. <br><br> "
 
 
-# # fun facts
-# fun_facts:
-#   enable: true
-#   title: "Fun facts about us"
-#   fact_item:
-#   - icon: "fas fa-fighter-jet"
-#     counter: "80"
-#     counter_suffix: "%"
-#     content: "Spend 80% less time <br> on admin"
+# fun facts
+fun_facts:
+  enable: true
+  title: "Fun facts about us"
+  fact_item:
+  - icon: "fas fa-calendar-days"
+    counter: "60"
+    counter_suffix: "+ years"
+    content: "Together we have more than 60 years' experience in capacity development and research"
 
-#   - icon: "far fa-dot-circle"
-#     counter: "40"
-#     counter_suffix: "x"
-#     content: "Attract 40x more <br> the candidate"
+  - icon: "fas fa-clock"
+    counter: "1000"
+    counter_suffix: "s hours"
+    content: "We have ran 1000s of hours of training and community-building activities"
 
-#   - icon: "fas fa-dice"
-#     counter: "83"
-#     counter_suffix: "%"
-#     content: "Reduce recruitment <br> agency spend"
+  - icon: "fas fa-building-circle-check"
+    counter: "4"
+    counter_suffix: " sectors"
+    content: "We have worked with academia, industry, government and public sectors"
 
-#   - icon: "fas fa-dice-d6"
-#     counter: "40"
-#     counter_suffix: "%"
-#     content: "Make hires 40% <br> faster"
+
 
 
 # features_box
