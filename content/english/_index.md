@@ -1,14 +1,13 @@
 ---
 ####################### Banner #########################
 banner:
-  title : " Understanding and addressing skills and knowledge gaps for a stronger future."
+  title : "Understanding and addressing skills and knowledge gaps for a stronger future."
   image : "images/home.png"
   content : ""
   button:
     enable : false
     label : "Get started for Free"
     link : "get-demo/"
-
 
 ########################## Clients Logo Slider #########################
 # clients_logo_slider:
@@ -82,7 +81,7 @@ service:
     content : "We conduct research to learn more about the target audience and their context to help you customise training solutions, content and approaches that will be most suitable."
       
   # service item loop
-  - title : "Localisation and contextualisation of learning resources and training approaches"
+  - title : "Localisation of learning resources and training approaches"
     images:
     - "images/service2.svg"
     content : "Evidence-based support with localisation and contextualisation of learning resources and training interventions enable you to facilitate optimal learning experiences."
